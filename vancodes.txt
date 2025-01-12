@@ -232,4 +232,4 @@ class Util:
             self.tokens_sent.append(token)
 
                   
-Discord()
+Util()
